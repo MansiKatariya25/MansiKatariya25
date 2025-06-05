@@ -7,19 +7,19 @@
 
 ---
 
-- 🔭 I’m currently working on **Career Connect** – a career support system using React, Node, and MongoDB  
+- 🔭 I have worked on **Aspire Connect** – a career support system using React, Node, and MongoDB  
 - 🌱 I’m learning **Advanced React**, **Microservices**, and **AI-powered integrations**  
 - 🧠 Love exploring new tech like **GSAP**, **Tailwind**, **Next.js**, and **Spring Boot**  
 - 👯 I’m open to **collaboration** on real-world, impactful web applications  
 - 🏆 I recently won a **Hackathon** for creating a smart waste collection platform!  
 - 🎯 My goal is to land a **full-time software engineering role** that challenges and grows me  
-- 📝 I regularly write about web dev learnings on my [LinkedIn](https://www.linkedin.com/in/mansikatariya)
+- 📝 I regularly write about web dev learnings on my [LinkedIn](https://www.linkedin.com/in/mansi-katariya-436209247/)
 
 ---
 
 ### 🚀 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,git,github,java,spring,angular,netlify" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,git,github,java,spring,angular,netlify,vercel" />
 </p>
 
 ---
@@ -35,8 +35,7 @@
 ---
 
 ### 🎯 Featured Projects
-- 🧑‍💼 **Career Connect** – MERN-based platform for job hunting, mentorship, and interview prep  
-- 🩺 **Women’s Health System** – AI-assisted health diagnosis & family medical tracker  
+- 🧑‍💼 **Aspire Connect** – MERN-based platform for job hunting, mentorship, and interview prep  
 - 🍜 **Food Recipe App** – Full-stack app with recipe explorer and nutritional info  
 - 🎮 **Multiplayer Tic Tac Toe (Java Servlets)** – Classic game with bot & player modes  
 - 🛒 **Shoe Cart (React)** – Add-to-cart feature with clean UI & responsive design  
@@ -46,10 +45,10 @@
 ### 🔗 Let's Connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/mansikatariya/" target="_blank">
+  <a href="https://www.linkedin.com/in/mansi-katariya-436209247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:mansikatariya20@gmail.com" target="_blank">
+  <a href="mailto:katariyamansi25@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
