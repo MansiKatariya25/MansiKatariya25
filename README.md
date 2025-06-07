@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I have worked on **Aspire Connect** – a career support system using React, Node, and MongoDB  
+- 🔭 I have worked on **Aspire Connect** – a career support system using React, Node, Spring Boot and MongoDB  
 - 🌱 I’m learning **Advanced React**, **Microservices**, and **AI-powered integrations**  
 - 🧠 Love exploring new tech like **GSAP**, **Tailwind**, **Next.js**, and **Spring Boot**  
 - 👯 I’m open to **collaboration** on real-world, impactful web applications  
